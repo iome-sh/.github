@@ -8,7 +8,7 @@ We build governed streams, lineage, and policy so agents can act on real operati
 
 | Repository | Role |
 |------------|------|
-| [`iomesh-tui`](https://github.com/iome-sh/iomesh-tui) | Coding-agent harness (TUI / headless / ACP) with DeepSeek-first cascade and mesh hooks |
+| [`iomesh-tui`](https://github.com/iome-sh/iomesh-tui) | Coding-agent harness (TUI / headless / ACP) — multi-model (DeepSeek · Grok · Gemini · Vertex) + I/O Mesh hooks |
 | [`iomesh-client-sdk-go`](https://github.com/iome-sh/iomesh-client-sdk-go) | Official Go client SDK (HTTP publish/subscribe, connectors, Kafka Produce subset) |
 
 ## Links
