@@ -4,14 +4,6 @@
 
 We build governed streams, lineage, and policy so agents can act on real operational work — not just chat.
 
-## Public open source
-
-| Repository | Role |
-|------------|------|
-| [`iomesh-tui`](https://github.com/iome-sh/iomesh-tui) | Coding-agent harness (TUI / headless / ACP) — multi-model (DeepSeek · Grok · Gemini · Vertex) + I/O Mesh hooks |
-| [`iomesh-client-sdk-go`](https://github.com/iome-sh/iomesh-client-sdk-go) | Official Go client SDK (HTTP publish/subscribe, connectors, Kafka Produce subset) |
-| [`iomesh-client-sdk-python`](https://github.com/iome-sh/iomesh-client-sdk-python) | Official Python client SDK (**Beta** / pre-1.0 — residual-honest edge client; not invent 1.0 / live PyPI GA) |
-
 ## Links
 
 - **Website:** [iome.sh](https://iome.sh)
