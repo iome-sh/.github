@@ -8,9 +8,8 @@ We build governed streams, lineage, and policy so agents can act on real operati
 
 | Repository | Role |
 |------------|------|
-| [`iomesh-tui`](https://github.com/iome-sh/iomesh-tui) | Coding-agent harness (TUI / headless / ACP) — multi-model (DeepSeek · Grok · Gemini · Vertex) + I/O Mesh hooks |
-| [`iomesh-client-sdk-go`](https://github.com/iome-sh/iomesh-client-sdk-go) | Official Go client SDK (HTTP publish/subscribe, connectors, Kafka Produce subset) |
-| [`iomesh-client-sdk-python`](https://github.com/iome-sh/iomesh-client-sdk-python) | Official Python client SDK (**Beta** / pre-1.0 — residual-honest edge client; not invent 1.0 / live PyPI GA) |
+| [`memory`](https://github.com/iome-sh/memory) | Palace memory kernel (Go) — local filesystem library, hybrid search, temporal lite |
+| [`iomesh-memory-mcp`](https://github.com/iome-sh/iomesh-memory-mcp) | MCP host for local agent memory over github.com/iome-sh/memory |
 
 ## Links
 
