@@ -4,6 +4,13 @@
 
 We build governed streams, lineage, and policy so agents can act on real operational work — not just chat.
 
+## Public open source
+
+| Repository | Role |
+|---|---|
+| [`memory`](https://github.com/iome-sh/memory) | Palace memory kernel (Go) — local filesystem library, hybrid search, temporal lite |
+| [`iomesh-memory-mcp`](https://github.com/iome-sh/iomesh-memory-mcp) | MCP host for local agent memory over github.com/iome-sh/memory |
+
 ## Links
 
 - **Website:** [iome.sh](https://iome.sh)
